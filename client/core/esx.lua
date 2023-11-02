@@ -1,0 +1,1 @@
+if not Config.framework == 'esx' then return end
