@@ -1,1 +1,3 @@
-if not Config.framework == 'esx' then return end
+if Config.framework == 'esx' then
+    print('esx in use')
+end

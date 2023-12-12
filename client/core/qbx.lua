@@ -1,1 +1,0 @@
-if not Config.framework == 'qbx' then return end
